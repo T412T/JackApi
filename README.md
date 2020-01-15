@@ -1,5 +1,20 @@
 # jackapi
 
+
+Nous avons utilisé une API qui donne des blague de programmeurs
+
+lien officiel de l’API
+https://official-joke-api.appspot.com/
+
+nous avons utilisé axios avec la commande 
+$  npm install axios
+
+
+Les etudiant qui ont travaillé sur le projet 
+Bruno DEHON
+Thomas POMART
+Jean-Maxime ALEXANDRE
+
 ## Project setup
 ```
 npm install
